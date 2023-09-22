@@ -2,6 +2,7 @@
 
 [![Build Status](https://github.com/jakartaee/mail-api/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/jakartaee/mail-api/actions/workflows/maven.yml?branch=master)
 [![Jakarta Staging (Snapshots)](https://img.shields.io/nexus/s/https/jakarta.oss.sonatype.org/jakarta.mail/jakarta.mail-api.svg)](https://jakarta.oss.sonatype.org/content/repositories/staging/jakarta/mail/jakarta.mail-api/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frahul-shivarapu%2Fmail-api.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frahul-shivarapu%2Fmail-api?ref=badge_shield)
 
 Jakarta Mail defines a platform-independent and protocol-independent
 framework to build mail and messaging applications.
@@ -31,6 +32,9 @@ that they apply to all files in the workspace.
 
 You should always read the license file included with every download, and read
 the license text included in every source file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frahul-shivarapu%2Fmail-api.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frahul-shivarapu%2Fmail-api?ref=badge_large)
 
 ## Contributing
 
